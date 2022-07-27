@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Eddi",
+      "email": "admin@gmail.com",
+      "pass": "123456",
+      "phone": "860-292-4433",
+      "address": "520 Fuller Avenue",
+      "type": "admin"
+    },
+    {
+      "id": 2,
+      "first_name": "Paton",
+      "email": "pliddicoat1@tinyurl.com",
+      "pass": "PBGXGHH",
+      "phone": "486-404-2479",
+      "address": "17009 Menomonie Junction"
+    },
+    {
+      "id": 3,
+      "first_name": "Arluene",
+      "email": "awateridge2@gnu.org",
+      "password": "NgAuTWzN",
+      "phone": "566-381-9002",
+      "address": "780 Kipling Street"
+    },
+    {
+      "id": 4,
+      "first_name": "Tonye",
+      "email": "thumble3@hubpages.com",
+      "password": "x2qeDxrYM",
+      "phone": "461-544-5313",
+      "address": "721 Pawling Avenue"
+    },
+    {
+      "id": 5,
+      "first_name": "Cletus",
+      "email": "charcarse4@unblog.fr",
+      "password": "UbHUHWdUh",
+      "phone": "552-260-9364",
+      "address": "3160 Brown Alley"
+    },
+    {
+      "id": 6,
+      "first_name": "Fee",
+      "email": "fbirdsey5@buzzfeed.com",
+      "password": "3nihy6Aney",
+      "phone": "730-920-7269",
+      "address": "0 Melvin Park"
+    },
+    {
+      "id": 7,
+      "first_name": "Leshia",
+      "email": "lcongram6@cnn.com",
+      "password": "nS85BTuY",
+      "phone": "205-308-7223",
+      "address": "929 Larry Drive"
+    },
+    {
+      "id": 8,
+      "first_name": "Alica",
+      "email": "alightman7@seattletimes.com",
+      "password": "sXwEeOq5UBLy",
+      "phone": "821-552-0674",
+      "address": "5198 Prairie Rose Crossing"
+    },
+    {
+      "id": 9,
+      "first_name": "Aubry",
+      "email": "awillars8@sina.com.cn",
+      "password": "mKYWFXZomMe",
+      "phone": "229-248-2104",
+      "address": "1 Havey Place"
+    },
+    {
+      "id": 10,
+      "first_name": "Anica",
+      "email": "ahamley9@psu.edu",
+      "password": "Q4j5FrAF5eA",
+      "phone": "527-465-990",
+      "address": "9766 Veith Parkway",
+      "name": "Anic"
+    }
+  ]
+}
